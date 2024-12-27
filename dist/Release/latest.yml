@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: Game-Box-Setup-1.0.0.exe
+    sha512: RjBxaV6ggnuM8h6mr8nsDfM70p78ljIBcJhh6hgZXS3lnHwsN2gEmXG65thKOy2FxffSOfeojaeS8IRShVvCsQ==
+    size: 82098538
+path: Game-Box-Setup-1.0.0.exe
+sha512: RjBxaV6ggnuM8h6mr8nsDfM70p78ljIBcJhh6hgZXS3lnHwsN2gEmXG65thKOy2FxffSOfeojaeS8IRShVvCsQ==
+releaseDate: '2024-12-27T11:56:29.913Z'
